@@ -1,0 +1,23 @@
+bin/
+obj/
+.vs/
+*.suo
+*.user
+WebTest/App_Data/*.mdf
+WebTest/App_Data/*.ldf
+WebTest/App_Data/*.MDF
+WebTest/web.config
+WebTest/My Project/Settings.settings
+WebTest/My Project/Settings.Designer.vb
+WebTestConsole/app.config
+WebTestConsole/My Project/Settings.settings
+WebTestConsole/My Project/Settings.Designer.vb
+WebTestConsumer/app.config
+WebTestConsumer/My Project/Settings.settings
+WebTestConsumer/My Project/Settings.Designer.vb
+WebTestConsole/Web References/d820/service1.wsdl
+WebTestConsole/Web References/d820/service1.disco
+WebTestConsole/Web References/d820/Reference.map
+WebTestConsumer/Web References/d820/service1.wsdl
+WebTestConsumer/Web References/d820/service1.disco
+WebTestConsumer/Web References/d820/Reference.map

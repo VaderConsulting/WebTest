@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SQLConnectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Path\To\YourDatabase.mdb;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
